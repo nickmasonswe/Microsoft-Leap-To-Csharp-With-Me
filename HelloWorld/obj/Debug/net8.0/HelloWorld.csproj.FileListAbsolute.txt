@@ -1,0 +1,14 @@
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/nick/Desktop/nicks-stuff/cSharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
