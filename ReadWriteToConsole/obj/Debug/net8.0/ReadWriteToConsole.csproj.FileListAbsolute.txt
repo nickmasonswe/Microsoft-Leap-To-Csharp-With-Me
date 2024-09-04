@@ -1,0 +1,15 @@
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.AssemblyInfoInputs.cache
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.AssemblyInfo.cs
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.csproj.CoreCompileInputs.cache
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.sourcelink.json
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/bin/Debug/net8.0/ReadWriteToConsole
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/bin/Debug/net8.0/ReadWriteToConsole.deps.json
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/bin/Debug/net8.0/ReadWriteToConsole.runtimeconfig.json
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/bin/Debug/net8.0/ReadWriteToConsole.dll
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/bin/Debug/net8.0/ReadWriteToConsole.pdb
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.dll
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/refint/ReadWriteToConsole.dll
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.pdb
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ReadWriteToConsole.genruntimeconfig.cache
+/Users/nick/Desktop/nicks-stuff/cSharp/ReadWriteToConsole/obj/Debug/net8.0/ref/ReadWriteToConsole.dll
