@@ -76,6 +76,8 @@ namespace messingAroundWithGenerics
       List<bool> bools = new List<bool>();
       List<Random> randoms = new List<Random>();
       List<IServiceProvider> i = new List<IServiceProvider>();
+      //object initialization for List<T> objects
+      List<string> citiesList = new List<string> { "Delhi", "Los Angeles", "Saint Petersburg" };
     }
   }
 }
